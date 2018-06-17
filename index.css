@@ -435,84 +435,84 @@
 @-webkit-keyframes bar {
   0% {
     height: 486px;
-    top: 47%;
+    top: 2%;
     opacity: 0.58;
   }
   10% {
     height: 34px;
-    top: 45%;
+    top: 50%;
     opacity: 0.07;
   }
   20% {
     height: 551px;
-    top: 96%;
+    top: 34%;
     opacity: 0.37;
   }
   30% {
     height: 199px;
-    top: 69%;
+    top: 5%;
     opacity: 0.67;
   }
   40% {
     height: 258px;
-    top: 42%;
+    top: 67%;
     opacity: 0.45;
   }
   50% {
-    height: 68px;
-    top: 47%;
-    opacity: 0.32;
+    height: 39px;
+    top: 52%;
+    opacity: 0.22;
   }
   60% {
-    height: 565px;
-    top: 42%;
-    opacity: 0.25;
+    height: 39px;
+    top: 23%;
+    opacity: 0.22;
   }
   70% {
-    height: 575px;
-    top: 91%;
-    opacity: 0.01;
+    height: 39px;
+    top: 67%;
+    opacity: 0.22;
   }
   80% {
     height: 39px;
-    top: 16%;
+    top: 38%;
     opacity: 0.22;
   }
   90% {
-    height: 199px;
-    top: 94%;
-    opacity: 0.08;
+    height: 39px;
+    top: 14%;
+    opacity: 0.22;
   }
 }
 @keyframes bar {
   0% {
     height: 413px;
-    top: 51%;
+    top: 0%;
     opacity: 0.26;
   }
   10% {
     height: 125px;
-    top: 35%;
+    top: 67%;
     opacity: 0.26;
   }
   20% {
     height: 527px;
-    top: 96%;
+    top: 38%;
     opacity: 0.15;
   }
   30% {
     height: 597px;
-    top: 64%;
+    top: 14%;
     opacity: 0.43;
   }
   40% {
-    height: 602px;
-    top: 5%;
+    height: 125px;
+    top: 69%;
     opacity: 0.73;
   }
   50% {
     height: 562px;
-    top: 91%;
+    top: 41%;
     opacity: 0.53;
   }
   60% {
@@ -521,19 +521,19 @@
     opacity: 0.16;
   }
   70% {
-    height: 508px;
-    top: 40%;
-    opacity: 0.67;
+    height: 397px;
+    top: 16%;
+    opacity: 0.16;
   }
   80% {
-    height: 388px;
-    top: 44%;
-    opacity: 0.77;
+    height: 397px;
+    top: 52%;
+    opacity: 0.16;
   }
   90% {
-    height: 119px;
-    top: 92%;
-    opacity: 0.56;
+    height: 397px;
+    top: 47%;
+    opacity: 0.16;
   }
 }
 .glitch {
