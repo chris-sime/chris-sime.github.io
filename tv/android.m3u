@@ -1,264 +1,591 @@
-#EXTM3U url-tvg="http://www.xmltvepg.nl/rytecGR_Basic.xz"
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1
-https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/Dd3HM0I.png",ERT1 WORLDWIDE
-https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_wwmedium.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2
-https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/cpzgu5L.png",ERT2 WORLDWIDE
-https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_wwmedium.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 HD
-https://ert-live-ert3.siliconweb.com/live/smil:ert3-live.smil/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ3" tvg-logo="https://i.imgur.com/GJjfeY8.png",ERT3 WORLDWIDE
-https://www.youtube.com/watch?v=TNVdb0tT0PM
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤSports.gr" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ΕΡΤ SPORTS HD" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS  WORLDWIDE
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_wwhigh.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="megatv.com" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA HD
-https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1.gr" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ΑΝΤ1 HD
-https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Alpha Greece" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
-https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR HD 
-https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai.gr" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD 
-https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
-https://liveopen.siliconweb.com/openTvLive/OpenLive2/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
-http://bit.ly/2p6JqSo
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/5HV5pLu.jpg",SUPER CHANNEL
-https://bit.ly/35EmGO5
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/FKJ6N9p.png",GREEK CINEMA
-https://bit.ly/3ownRrv
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/RwETfPc.jpg",BANANA TV
-https://web.onair-radio.eu/bananachannel/bananachannel/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dwF0jlz.png",GALAXY GR
-https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/eLlhT4f.png",NETV TORONTO HD
-http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/MaAys0D.png",DIAVATA TV HD
-https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/gGqNDZN.png",ERTA LEX TV
-https://vdo.alphaserver.gr:3203/stream/play.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/B7YOyLN.jpg",MPAXALO TV
-https://itv.streams.ovh/mpaxalotv/mpaxalotv/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Fo1I0dt.jpg",34100 TV
-https://s1.cystream.net/live/34100/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/DOOVBu5.png",SMILE TV CY
-https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/slKtjnl.jpg",LOONEY TUNES TV 1
-https://www.youtube.com/watch?v=uLPGmGudQFU
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/slKtjnl.jpg",LOONEY TUNES TV 2
-https://www.youtube.com/watch?v=qHCBvKBeqOc
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/xHdfbl6.jpg",BOOBA
-https://www.youtube.com/watch?v=XK8METRgK_U
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
-http://wpso.com:1936/hls/kidshd.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ERTWorld.gr" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD 
-https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ERT World" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD  WORLDWIDE
-https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS 
-https://stream-01.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa0ee9zrxfjDVpB8nLTXNBTc)/dm/3/x2j7kha/s/live-2.m3u8#cell=lcore&qos_vpart=1
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 
-http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY
-http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Sigma TV" tvg-logo="https://i.imgur.com/uAIsqsP.png",SIGMA CY
-https://sl2.sigmatv.com/hls/live.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/ZCEPdfM.jpg",DIGITAL TV CY
-https://l8.cloudskep.com/digital/dtv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Tvmall" tvg-logo="https://i.imgur.com/W2wNukK.png",CBC TV MALL CY
-https://s1.cystream.net/live/tvmall/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV HD
-https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
-https://stream-03.dc3.dailymotion.com/sec(045Msia06uu92p_oLsoybArUYwzqGsml38D8S_i_1OE)/dm/3/x61fbhs/s/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="APT.gr" tvg-logo="http://greektv.pbworks.com/f/ART.png",APT
-http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="KONTRA" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
-http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="HIGHTV"tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV
-http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ALERT.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png",ALERT
-https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Channel9.gr" tvg-logo="https://i.imgur.com/H6s5t1z.jpg",CHANNEL 9 
-https://e-e.cyou:8222/channel9/channel9/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ATTICA TV" tvg-logo="https://i.imgur.com/s3qWC9W.png",ATTICA TV
-https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="BlueSky.gr" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY 
-https://www.youtube.com/watch?v=kDXQnGCskik
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="4Ε.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E
-http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΙΟΝΙΑΝ TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG",IONIAN CHANNEL
-https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TV100" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png",TV 100
-https://live.fm100.gr/hls/tv100/index.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Κρήτη TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926558/KRHTH_TV.png",KPHTH TV
-http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Νέα Τηλεόραση Κρήτης" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png",NEA TV
-https://live.neatv.gr:8888/hls/neatv.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="CRETA.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46893829/CRETA.png",CRETA
-http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Star Κεντρικής Ελλάδας" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
-https://stream-03.dc3.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvOQCsD9p5JtSlcadfi91xM8)/dm/3/xqjey2/d/live-2.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="BestTV.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254401/BEST.PNG",BEST TV
-https://best-tv.gr/HLS/hls/best/index.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="START TV" tvg-logo="http://greektv.pbworks.com/f/START_TV.png",START TV
-https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TRT.gr" tvg-logo="https://i.imgur.com/HwC31wH.png",TRT TV
-https://www.hellasnet.tv/rest.live.hn/ws.trt/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ENA CHANNEL" tvg-logo="http://greektv.pbworks.com/f/ENA_CHANNEL.png",ENA CHANNEL
-http://176.9.123.140:1935/1c/stream/master.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="DELTA TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028326/DELTA_TV.png",DELTA TV
-https://cdn.onestreaming.com/deltatv/deltatv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="THRAKINET" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028330/THRAKINET.png",THRAKINET
-https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="5760" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028329/R_CHANNEL.png",TV RODOPI
-https://video.connect4.gr/live/tvrodopi/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="AXELWOS TV" tvg-logo="http://greektv.pbworks.com/f/AXELWOS_TV.png",AXELWOS TV
-http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="CORFU TV" tvg-logo="https://i.imgur.com/w0UIKte.png",CORFU TV
-https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="MESOGEIOS TV" tvg-logo="https://i.imgur.com/OnB6n3C.jpg",MESOGEIOS TV
-http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="IPIROSTV.gr" tvg-logo="http://greektv.pbworks.com/f/EPIRUS_TV1.png",EPIRUS TV1
-http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TOP CHANNEL" tvg-logo="http://greektv.pbworks.com/f/TOP_KOZANIS.png",TOP CHANNEL
-https://itv.streams.ovh/topchannel/topchannel/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ALFA.gr" tvg-logo="https://i.imgur.com/39l3uRU.jpg",ALFA DRAMAS
-http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg",ART TV
-http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="SAMIAKI TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/67079118/SAMIAKI_TV%2C.png",SAMIAKI TV
-http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="SYROS TV1" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54780449/TV1_SYROS.png",SYROS TV1
-http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="DIKTYO" tvg-logo="https://i.imgur.com/IH0xIoZ.png",DIKTYO TV
-https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="PLP" tvg-logo="https://i.imgur.com/qa3Lurc.png",PLP
-https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LEPANTO" tvg-logo="https://i.imgur.com/8qLqTaK.jpg",LEPANTO 
-https://video1.getstreamhosting.com:1936/8024/8024/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TILE EPILOGES" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png",TILE EPILOGES
-https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="DIKTYO1" tvg-logo="https://i.imgur.com/0klufvz.jpg",DIKTYO 1
-https://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="PELLA" tvg-logo="https://i.imgur.com/9YFieqB.jpg",PELLA TV
-https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="EGNATIA" tvg-logo="https://i.imgur.com/XQyysct.jpg",EGNATIA TV
-https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="HLEKTRA TV" tvg-logo="https://i.imgur.com/SI8Ny3X.png",HLEKTRA TV
-http://167.86.89.20:5080/LiveApp/streams/064918158666216168224216.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="IRIDA TV" tvg-logo="https://i.imgur.com/gn5sdCt.png",IRIDA TV
-https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="KOSMOS" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60551556/KOSMOS_TV.png",TV KOSMOS
-https://5e8dfce185af1.streamlock.net/TvKosmosLive/TvKosmosLive/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LYCHNOS.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG",LYCHNOS
-http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/LyRMqHO.jpg",GRD CHANNEL
-https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/hfia0wN.png",WIXLAR
-http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
-http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/SjoxYxX.png",PLUTON TV
-http://web.onair-radio.eu:1935/plutonchannel/plutonchannel/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-name="MADTV.gr" tvg-logo="https://i.imgur.com/S0hPYmI.png",MAD TV
-https://www.youtube.com/watch?v=dC3-ISvqnJI
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Greek hits
-https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Music Hits
-http://topmusic.flashmediacast.com:1935/topmusic/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Music Dance hits 
-https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Love Music & Christmas
-http://barazatv.srfms.com:1935/barazatv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
-https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hzaXhNV.png",NG TV
-https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/bGIdE9N.png",CANNALI TV HD
-http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/kjhj78D.png",MAGIC TV
-https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/YWC1Ak8.jpg",MUSIC TV
-https://bit.ly/3ozXFfK
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/fwPUazv.jpg",RELOAD RADIO
-http://web.onair-radio.eu:1935/video/video/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/AmW9d6H.jpg",ZOUGLA TV
-https://vermmd.mmdlive.lldns.net/vermmd/eaf457c2f751497ea510298cb1685b8f/manifest.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/I4kzEBw.jpg",FOX MUSIC
-http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/wb4pLkW.jpg",TILEMOUSIKI
-http://wpso.com:1936/hls/music1.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ZBIyCAl.png",MY RADIO TV
-https://vdo.alphaserver.gr:3305/stream/play.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/8YzoXFJ.png",PLAY TV
-http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/cdT9deo.jpg",XALASTRA TV
-https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/H0VDfpb.jpg",MESSINIA TV
-http://176.9.123.140:1935/messinia/messinia/master.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/zG9dFQp.jpg",ERT SPORTS 2
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/jRKmGhb.jpg",ERT SPORTS 3
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/wnNDiwy.jpg",ETHNOS TV
-https://opentv-livehybrid.siliconweb.com/openTvLive/opennews/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/nMMo1sT.jpg",GOLD TV
-http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/aYgRkkB.jpg",AKRITAS TV HD
-http://akritastv.flashmediacast.com:1935/akritastv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/TabBmOc.png",MARON TV
-https://video.connect4.gr/live/marontv/marontv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tZnziRp.jpg",NS TV
-http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/y58Jkj8.png",MONTREAL GREEK TV
-http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DcleTdR.png",GREEK VOICE 
-http://wpso.com:1936/hls/wzra.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/nxoHQqz.png",EKKLHSIA TV HD
-https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/iL2o7Og.png",TV DIPSO 
-https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/H3xtBV3.jpg",ALITHEIA TV
-https://vdo.alphaserver.gr:3989/stream/play.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/aZpv6l9.png",BCI 24 NEWS
-https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/SWPpbJd.jpg",ALPHA CHANNEL
-https://bit.ly/2J8Fw8p
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/dW1bcD2.jpg",NOTIOI TV
-https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/T8mB6Kg.jpg",FAROS TV
-https://s1.cystream.net/live/faros1/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/T8mB6Kg.jpg",FAROS TV2
-https://s1.cystream.net/live/faros2/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/W5oLUMk.jpg",CAMERA SMILE
-https://nrpus.bozztv.com/36bay2/gusa-camerasmile/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ZZCDm3R.jpg",AVANTI TV
-https://www.youtube.com/watch?v=k7e8bfs0IuY
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg",HELLENIC TV
-https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/T0zL9ov.jpg",RADIO EPISTROFI
-https://s1.cystream.net/live/epistrofi/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/3UTMBVx.jpg",TV FILOPOLI
-http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/Q8BS310.png",MAD RADIO
-https://www.youtube.com/watch?v=WEsJ0un-AME
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/bHL6FpD.png",YPERVASI TV
-https://kinima.cast-control.eu:1936/kinima/kinima/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/rovfMvn.jpg",ELLAS TV
-http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",HORSE RACES
-https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/wtW3zkz.png",TV NOTOS
-https://eco.streams.ovh/notos/notos/chunklist_w1265351016.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI TV2
-https://streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI TV3
-https://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="UK: Now Premier Sports 1" tvg-logo="" group-title="UK | Now Premier Sport",UK: Now Premier Sports 1
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410616
+#EXTINF:-1 tvg-id="" tvg-name="UK: Now Premier Sports 2" tvg-logo="" group-title="UK | Now Premier Sport",UK: Now Premier Sports 2
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410615
+#EXTINF:-1 tvg-id="" tvg-name="UK: Now Premier Sports 3" tvg-logo="" group-title="UK | Now Premier Sport",UK: Now Premier Sports 3
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410614
+#EXTINF:-1 tvg-id="" tvg-name="UK: Now Premier Sports 4" tvg-logo="" group-title="UK | Now Premier Sport",UK: Now Premier Sports 4
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410613
+#EXTINF:-1 tvg-id="" tvg-name="UK: Now Premier Sports 5" tvg-logo="" group-title="UK | Now Premier Sport",UK: Now Premier Sports 5
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410612
+#EXTINF:-1 tvg-id="" tvg-name="UK: Now Premier Sports 6" tvg-logo="" group-title="UK | Now Premier Sport",UK: Now Premier Sports 6
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410611
+#EXTINF:-1 tvg-id="" tvg-name="UK: Now Premier Sports 7" tvg-logo="" group-title="UK | Now Premier Sport",UK: Now Premier Sports 7
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410610
+#EXTINF:-1 tvg-id="" tvg-name="UK: Now Premier Sports 8" tvg-logo="" group-title="UK | Now Premier Sport",UK: Now Premier Sports 8
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410609
+#EXTINF:-1 tvg-id="" tvg-name="UK: CELTIC FC TV (Live for Matches)" tvg-logo="https://asiagrandiptv.us/logo//CELTICFCTV.jpeg" group-title="UK",UK: CELTIC FC TV (Live for Matches)
+http://parkpay.live:8080/overkill/dB2hBKSxdP/406702
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SELECT ACTION" tvg-logo="https://asiagrandiptv.us/logo//SKYSELECT.jpeg" group-title="UK | SKY SELECT",UK: SKY SELECT ACTION
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398884
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SELECT ADVENTURE" tvg-logo="https://asiagrandiptv.us/logo//SKYSELECT.jpeg" group-title="UK | SKY SELECT",UK: SKY SELECT ADVENTURE
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398883
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SELECT ANIMATION" tvg-logo="https://asiagrandiptv.us/logo//SKYSELECT.jpeg" group-title="UK | SKY SELECT",UK: SKY SELECT ANIMATION
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398882
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SELECT ANIMATION XTRA" tvg-logo="https://asiagrandiptv.us/logo//SKYSELECT.jpeg" group-title="UK | SKY SELECT",UK: SKY SELECT ANIMATION XTRA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398881
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SELECT COMEDY" tvg-logo="https://asiagrandiptv.us/logo//SKYSELECT.jpeg" group-title="UK | SKY SELECT",UK: SKY SELECT COMEDY
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398880
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SELECT CRIME" tvg-logo="https://asiagrandiptv.us/logo//SKYSELECT.jpeg" group-title="UK | SKY SELECT",UK: SKY SELECT CRIME
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398879
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SELECT DOKU" tvg-logo="https://asiagrandiptv.us/logo//SKYSELECT.jpeg" group-title="UK | SKY SELECT",UK: SKY SELECT DOKU
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398878
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SELECT DRAMA" tvg-logo="https://asiagrandiptv.us/logo//SKYSELECT.jpeg" group-title="UK | SKY SELECT",UK: SKY SELECT DRAMA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398877
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SELECT FAMILY" tvg-logo="https://asiagrandiptv.us/logo//SKYSELECT.jpeg" group-title="UK | SKY SELECT",UK: SKY SELECT FAMILY
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398876
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SELECT HISTORY" tvg-logo="https://asiagrandiptv.us/logo//SKY SELECT HISTORY.jpeg" group-title="UK | SKY SELECT",UK: SKY SELECT HISTORY
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398875
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SELECT HORROR" tvg-logo="https://asiagrandiptv.us/logo//SKYSELECT.jpeg" group-title="UK | SKY SELECT",UK: SKY SELECT HORROR
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398874
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SELECT MYSTERY" tvg-logo="https://asiagrandiptv.us/logo//SKYSELECT.jpeg" group-title="UK | SKY SELECT",UK: SKY SELECT MYSTERY
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398873
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SELECT ROMANCE" tvg-logo="https://asiagrandiptv.us/logo//SKYSELECT.jpeg" group-title="UK | SKY SELECT",UK: SKY SELECT ROMANCE
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398872
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SELECT SPORT UFC WWE CHANNEL" tvg-logo="https://asiagrandiptv.us/logo//SKYSELECT.jpeg" group-title="UK | SKY SELECT",UK: SKY SELECT SPORT UFC WWE CHANNEL
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398871
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SELECT THRILLER" tvg-logo="https://asiagrandiptv.us/logo//SKYSELECT.jpeg" group-title="UK | SKY SELECT",UK: SKY SELECT THRILLER
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398870
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SELECT WAR" tvg-logo="https://asiagrandiptv.us/logo//SKYSELECT.jpeg" group-title="UK | SKY SELECT",UK: SKY SELECT WAR
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398869
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SELECT WESTERN" tvg-logo="https://asiagrandiptv.us/logo//SKYSELECT.jpeg" group-title="UK | SKY SELECT",UK: SKY SELECT WESTERN
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398868
+#EXTINF:-1 tvg-id="" tvg-name="UK: CHRISTMASTV ANIMATION" tvg-logo="https://asiagrandiptv.us/logo//CHRISTMASTVANIMATION.jpeg" group-title="UK",UK: CHRISTMASTV ANIMATION
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398867
+#EXTINF:-1 tvg-id="" tvg-name="UK: CHRISTMASTV FILMS" tvg-logo="https://asiagrandiptv.us/logo//CHRISTMASTVFILMS.png" group-title="UK",UK: CHRISTMASTV FILMS
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398866
+#EXTINF:-1 tvg-id="" tvg-name="UK: ANIMATION 1" tvg-logo="https://asiagrandiptv.us/logo//ANIMATION.jpeg" group-title="UK",UK: ANIMATION 1
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398865
+#EXTINF:-1 tvg-id="" tvg-name="UK: ANIMATION 2" tvg-logo="https://asiagrandiptv.us/logo//ANIMATION.jpeg" group-title="UK",UK: ANIMATION 2
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398864
+#EXTINF:-1 tvg-id="" tvg-name="UK: ANIMATION 3" tvg-logo="https://asiagrandiptv.us/logo//ANIMATION.jpeg" group-title="UK",UK: ANIMATION 3
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398863
+#EXTINF:-1 tvg-id="" tvg-name="UK: ANIMATION 4" tvg-logo="https://asiagrandiptv.us/logo//ANIMATION.jpeg" group-title="UK",UK: ANIMATION 4
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398862
+#EXTINF:-1 tvg-id="" tvg-name="UK: DOCUMENTARY 1" tvg-logo="https://asiagrandiptv.us/logo//documentary.png" group-title="UK",UK: DOCUMENTARY 1
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398861
+#EXTINF:-1 tvg-id="" tvg-name="UK: DOCUMENTARY 10" tvg-logo="https://asiagrandiptv.us/logo//documentary.png" group-title="UK",UK: DOCUMENTARY 10
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398860
+#EXTINF:-1 tvg-id="" tvg-name="UK: DOCUMENTARY 11" tvg-logo="https://asiagrandiptv.us/logo//documentary.png" group-title="UK",UK: DOCUMENTARY 11
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398859
+#EXTINF:-1 tvg-id="" tvg-name="UK: DOCUMENTARY 12" tvg-logo="https://asiagrandiptv.us/logo//documentary.png" group-title="UK",UK: DOCUMENTARY 12
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398858
+#EXTINF:-1 tvg-id="" tvg-name="UK: DOCUMENTARY 2" tvg-logo="https://asiagrandiptv.us/logo//documentary.png" group-title="UK",UK: DOCUMENTARY 2
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398857
+#EXTINF:-1 tvg-id="" tvg-name="UK: DOCUMENTARY 3" tvg-logo="https://asiagrandiptv.us/logo//documentary.png" group-title="UK",UK: DOCUMENTARY 3
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398856
+#EXTINF:-1 tvg-id="" tvg-name="UK: DOCUMENTARY 4" tvg-logo="https://asiagrandiptv.us/logo//DOCUMENTARY4.png" group-title="UK",UK: DOCUMENTARY 4
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398855
+#EXTINF:-1 tvg-id="" tvg-name="UK: DOCUMENTARY 5" tvg-logo="https://asiagrandiptv.us/logo//documentary.png" group-title="UK",UK: DOCUMENTARY 5
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398854
+#EXTINF:-1 tvg-id="" tvg-name="UK: DOCUMENTARY 6" tvg-logo="https://asiagrandiptv.us/logo//documentary.png" group-title="UK",UK: DOCUMENTARY 6
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398853
+#EXTINF:-1 tvg-id="" tvg-name="UK: DOCUMENTARY 7" tvg-logo="https://asiagrandiptv.us/logo//documentary.png" group-title="UK",UK: DOCUMENTARY 7
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398852
+#EXTINF:-1 tvg-id="" tvg-name="UK: DOCUMENTARY 8" tvg-logo="https://asiagrandiptv.us/logo//documentary.png" group-title="UK",UK: DOCUMENTARY 8
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398851
+#EXTINF:-1 tvg-id="" tvg-name="UK: RT DOCUMENTARY" tvg-logo="https://asiagrandiptv.us/logo//rtdocumentary.png" group-title="UK",UK: RT DOCUMENTARY
+http://parkpay.live:8080/overkill/dB2hBKSxdP/398850
+#EXTINF:-1 tvg-id="" tvg-name="UK: BET VIP" tvg-logo="https://asiagrandiptv.us/logo/bet.png" group-title="UK",UK: BET VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7798
+#EXTINF:-1 tvg-id="" tvg-name="UK: FIVE VIP" tvg-logo="https://asiagrandiptv.us/logo//FIVE.png" group-title="UK",UK: FIVE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7861
+#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="UK: KERRANG! VIP" tvg-logo="https://asiagrandiptv.us/logo//KERRANG.png" group-title="UK",UK: KERRANG! VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7882
+#EXTINF:-1 tvg-id="islamtv.uk" tvg-name="UK: MTV VIP" tvg-logo="https://asiagrandiptv.us/logo/mtv.png" group-title="UK",UK: MTV VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7891
+#EXTINF:-1 tvg-id="mtvbase.uk" tvg-name="UK: MTV BASE VIP" tvg-logo="https://asiagrandiptv.us/logo/mtvbase.png" group-title="UK",UK: MTV BASE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7892
+#EXTINF:-1 tvg-id="mtvclassic.uk" tvg-name="UK: MTV CLASSIC VIP" tvg-logo="https://asiagrandiptv.us/logo/mtvclassic.png" group-title="UK",UK: MTV CLASSIC VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7893
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV DANCE VIP" tvg-logo="https://asiagrandiptv.us/logo/mtvdance.png" group-title="UK",UK: MTV DANCE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7894
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV OMG VIP" tvg-logo="https://asiagrandiptv.us/logo/mtvomg.png" group-title="UK",UK: MTV OMG VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7898
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV ROCKS VIP" tvg-logo="https://asiagrandiptv.us/logo/mtvrocks.png" group-title="UK",UK: MTV ROCKS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7899
+#EXTINF:-1 tvg-id="" tvg-name="UK: RTE ONE VIP" tvg-logo="https://asiagrandiptv.us/logo/rteone.png" group-title="UK",UK: RTE ONE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7922
+#EXTINF:-1 tvg-id="" tvg-name="UK: RTE TWO VIP" tvg-logo="https://asiagrandiptv.us/logo/rtetwo.png" group-title="UK",UK: RTE TWO VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7923
+#EXTINF:-1 tvg-id="sonysab.uk" tvg-name="UK: SAB TV VIP" tvg-logo="https://asiagrandiptv.us/logo/sabtv.png" group-title="UK",UK: SAB TV VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7929
+#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="UK: SONY CHANNEL VIP" tvg-logo="https://asiagrandiptv.us/logo/sonychannel.png" group-title="UK",UK: SONY CHANNEL VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7966
+#EXTINF:-1 tvg-id="forcestv.uk" tvg-name="UK: STV VIP" tvg-logo="https://asiagrandiptv.us/logo/stv.png" group-title="UK",UK: STV VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7974
+#EXTINF:-1 tvg-id="" tvg-name="UK: UFC FIGHT NIGHT PASS VIP" tvg-logo="https://asiagrandiptv.us/logo/ufcfightpass.png" group-title="UK",UK: UFC FIGHT NIGHT PASS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7989
+#EXTINF:-1 tvg-id="" tvg-name="UK: UNIVERSAL CHANNEL VIP" tvg-logo="https://asiagrandiptv.us/logo/universalchannel.png" group-title="UK",UK: UNIVERSAL CHANNEL VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7991
+#EXTINF:-1 tvg-id="utv.uk" tvg-name="UK: UTV IRELAND VIP" tvg-logo="https://asiagrandiptv.us/logo/utv.png" group-title="UK",UK: UTV IRELAND VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7992
+#EXTINF:-1 tvg-id="" tvg-name="UK: VH1 CLASSIC VIP" tvg-logo="https://asiagrandiptv.us/logo/vh1classic.png" group-title="UK",UK: VH1 CLASSIC VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7993
+#EXTINF:-1 tvg-id="viceland.uk" tvg-name="UK: VICELAND VIP" tvg-logo="https://asiagrandiptv.us/logo//VICELAND.png" group-title="UK",UK: VICELAND VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7994
+#EXTINF:-1 tvg-id="" tvg-name="UK: VH1 VIP" tvg-logo="https://asiagrandiptv.us/logo/vh1.png" group-title="UK",UK: VH1 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/17359
+#EXTINF:-1 tvg-id="mtvlive.uk" tvg-name="UK: MTV LIVE VIP" tvg-logo="https://asiagrandiptv.us/logo/mtvlive.png" group-title="UK",UK: MTV LIVE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/17361
+#EXTINF:-1 tvg-id="" tvg-name="UK: SONY MOVIE CHANNEL VIP" tvg-logo="https://asiagrandiptv.us/logo/sonymoviechannel.png" group-title="UK",UK: SONY MOVIE CHANNEL VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/23434
+#EXTINF:-1 tvg-id="tvone.uk" tvg-name="UK: TV ONE VIP" tvg-logo="https://asiagrandiptv.us/logo/tvone.png" group-title="UK",UK: TV ONE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/46363
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIRGIN MEDIA three VIP" tvg-logo="https://asiagrandiptv.us/logo/virginmedia3.png" group-title="UK",UK: VIRGIN MEDIA three VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/46367
+#EXTINF:-1 tvg-id="bbcscotland.uk" tvg-name="UK: BBC SCOTLAND VIP" tvg-logo="https://asiagrandiptv.us/logo/bbcscotland.png" group-title="UK",UK: BBC SCOTLAND VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/302096
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="UK: 4MUSIC VIP" tvg-logo="https://asiagrandiptv.us/logo/4music.png" group-title="UK",UK: 4MUSIC VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/302067
+#EXTINF:-1 tvg-id="" tvg-name="UK: INDIA ZEE TV VIP" tvg-logo="https://asiagrandiptv.us/logo/zeetv.png" group-title="UK",UK: INDIA ZEE TV VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/301696
+#EXTINF:-1 tvg-id="" tvg-name="UK: SUPER SPORTS VARIETY 4 VIP(MATCH TIME)" tvg-logo="https://asiagrandiptv.us/logo/supersportvariety4.png" group-title="UK",UK: SUPER SPORTS VARIETY 4 VIP(MATCH TIME)
+http://parkpay.live:8080/overkill/dB2hBKSxdP/202701
+#EXTINF:-1 tvg-id="" tvg-name="UK: SUPER SPORTS RUGBY VIP(MATCH TIME)" tvg-logo="https://asiagrandiptv.us/logo/supersportrugby.png" group-title="UK",UK: SUPER SPORTS RUGBY VIP(MATCH TIME)
+http://parkpay.live:8080/overkill/dB2hBKSxdP/200535
+#EXTINF:-1 tvg-id="" tvg-name="UK: SUPER SPORTS VARIETY 3 VIP(MATCH TIME)" tvg-logo="https://asiagrandiptv.us/logo/supersportvariety3.png" group-title="UK",UK: SUPER SPORTS VARIETY 3 VIP(MATCH TIME)
+http://parkpay.live:8080/overkill/dB2hBKSxdP/200534
+#EXTINF:-1 tvg-id="" tvg-name="UK: SUPER SPORTS VARIETY 1 VIP (MATCH TIME)" tvg-logo="https://asiagrandiptv.us/logo/supersportvariety1.png" group-title="UK",UK: SUPER SPORTS VARIETY 1 VIP (MATCH TIME)
+http://parkpay.live:8080/overkill/dB2hBKSxdP/200533
+#EXTINF:-1 tvg-id="" tvg-name="UK: SUPER SPORTS FOOTBALL VIP(MATCH TIME)" tvg-logo="https://asiagrandiptv.us/logo/supersportfootball.png" group-title="UK",UK: SUPER SPORTS FOOTBALL VIP(MATCH TIME)
+http://parkpay.live:8080/overkill/dB2hBKSxdP/200532
+#EXTINF:-1 tvg-id="" tvg-name="UK: SUPER SPORTS ACTION VIP(MATCH TIME)" tvg-logo="https://asiagrandiptv.us/logo/supersportaction.png" group-title="UK",UK: SUPER SPORTS ACTION VIP(MATCH TIME)
+http://parkpay.live:8080/overkill/dB2hBKSxdP/200531
+#EXTINF:-1 tvg-id="" tvg-name="UK: SUPER SPORTS VARIETY 2 VIP(MATCH TIME)" tvg-logo="https://asiagrandiptv.us/logo/supersportvariety2.png" group-title="UK",UK: SUPER SPORTS VARIETY 2 VIP(MATCH TIME)
+http://parkpay.live:8080/overkill/dB2hBKSxdP/200530
+#EXTINF:-1 tvg-id="" tvg-name="UK: SUPER SPORTS MOTORSPORT VIP(MATCH TIME)" tvg-logo="https://asiagrandiptv.us/logo/supersportmotorsport.png" group-title="UK",UK: SUPER SPORTS MOTORSPORT VIP(MATCH TIME)
+http://parkpay.live:8080/overkill/dB2hBKSxdP/200529
+#EXTINF:-1 tvg-id="" tvg-name="UK: SUPER SPORT GRANDSTAND VIP(MATCH TIME)" tvg-logo="https://asiagrandiptv.us/logo/supersportgrandstand.png" group-title="UK",UK: SUPER SPORT GRANDSTAND VIP(MATCH TIME)
+http://parkpay.live:8080/overkill/dB2hBKSxdP/200528
+#EXTINF:-1 tvg-id="" tvg-name="UK: SUPER SPORTS PSL VIP(MATCH TIME)" tvg-logo="https://asiagrandiptv.us/logo/supersportpsl.png" group-title="UK",UK: SUPER SPORTS PSL VIP(MATCH TIME)
+http://parkpay.live:8080/overkill/dB2hBKSxdP/200526
+#EXTINF:-1 tvg-id="" tvg-name="UK: SUPER SPORTS LALIGA VIP(MATCH TIME)" tvg-logo="https://asiagrandiptv.us/logo/supersportlaliga.png" group-title="UK",UK: SUPER SPORTS LALIGA VIP(MATCH TIME)
+http://parkpay.live:8080/overkill/dB2hBKSxdP/200525
+#EXTINF:-1 tvg-id="" tvg-name="UK: BEIN SPORTS 4 VIP" tvg-logo="https://asiagrandiptv.us/logo//beinsports4.png" group-title="UK",UK: BEIN SPORTS 4 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/384445
+#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="UK: BEIN SPORTS 7 VIP" tvg-logo="https://asiagrandiptv.us/logo//beinsports7.png" group-title="UK",UK: BEIN SPORTS 7 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/384444
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="UK: BEIN SPORTS 1 VIP" tvg-logo="https://asiagrandiptv.us/logo//beinsports1.png" group-title="UK",UK: BEIN SPORTS 1 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/384443
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="UK: BEIN SPORTS 2 VIP" tvg-logo="https://asiagrandiptv.us/logo//beinsports.png" group-title="UK",UK: BEIN SPORTS 2 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/384442
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT SPORT 1 VIP" tvg-logo="https://asiagrandiptv.us/logo/btsport1.png" group-title="UK",UK: BT SPORT 1 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7805
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 2 VIP" tvg-logo="https://asiagrandiptv.us/logo/btsports2vip.png" group-title="UK",UK: BT SPORT 2 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7806
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT SPORT 3 VIP" tvg-logo="https://asiagrandiptv.us/logo//btsport3vip.png" group-title="UK",UK: BT SPORT 3 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7807
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT SPORT 4 VIP" tvg-logo="https://asiagrandiptv.us/logo/btsportespn.png" group-title="UK",UK: BT SPORT 4 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7808
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT EXTRA 1 VIP" tvg-logo="https://asiagrandiptv.us/logo/btsportextra1.png" group-title="UK",UK: BT SPORT EXTRA 1 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7810
+#EXTINF:-1 tvg-id="btsportx2.uk" tvg-name="UK: BT SPORT EXTRA 2 VIP" tvg-logo="https://asiagrandiptv.us/logo//BTSPORTEXTRA2.png" group-title="UK",UK: BT SPORT EXTRA 2 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7811
+#EXTINF:-1 tvg-id="btsportx3.uk" tvg-name="UK: BT SPORT EXTRA 3 VIP" tvg-logo="https://asiagrandiptv.us/logo/btsportextra3.png" group-title="UK",UK: BT SPORT EXTRA 3 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7812
+#EXTINF:-1 tvg-id="btsportx4.uk" tvg-name="UK: BT SPORT EXTRA 4 VIP" tvg-logo="https://asiagrandiptv.us/logo/btsportextra4.png" group-title="UK",UK: BT SPORT EXTRA 4 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7813
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="UK: ANIMAL PLANET VIP" tvg-logo="https://asiagrandiptv.us/logo/animalplanet.png" group-title="UK",UK: ANIMAL PLANET VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7777
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK: CRIME & INVESTIGATION VIP" tvg-logo="https://asiagrandiptv.us/logo/crimeinvestigation.png" group-title="UK",UK: CRIME & INVESTIGATION VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7838
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK: DISCOVERY CHANNEL VIP" tvg-logo="https://asiagrandiptv.us/logo//discoverychannelsweden.png" group-title="UK",UK: DISCOVERY CHANNEL VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7840
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK: DISCOVERY HISTORY VIP" tvg-logo="https://asiagrandiptv.us/logo/discoveryhistory.png" group-title="UK",UK: DISCOVERY HISTORY VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7841
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="UK: DISCOVERY SCIENCE VIP" tvg-logo="https://asiagrandiptv.us/logo/discoveryscience.png" group-title="UK",UK: DISCOVERY SCIENCE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7842
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="UK: DISCOVERY TURBO VIP" tvg-logo="https://asiagrandiptv.us/logo//discoveryturbovip.png" group-title="UK",UK: DISCOVERY TURBO VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7844
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK: HISTORY 2 VIP" tvg-logo="https://asiagrandiptv.us/logo/history2.png" group-title="UK",UK: HISTORY 2 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7869
+#EXTINF:-1 tvg-id="historychannel.uk" tvg-name="UK: HISTORY VIP" tvg-logo="https://asiagrandiptv.us/logo/history.png" group-title="UK",UK: HISTORY VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7871
+#EXTINF:-1 tvg-id="horseandcountry.uk" tvg-name="UK: HORSE AND COUNTRY VIP" tvg-logo="https://asiagrandiptv.us/logo/horseandcountry.png" group-title="UK",UK: HORSE AND COUNTRY VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7875
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="UK: INVESTIGATION DISCOVERY VIP" tvg-logo="https://asiagrandiptv.us/logo/discoveryinvestigation.png" group-title="UK",UK: INVESTIGATION DISCOVERY VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7876
+#EXTINF:-1 tvg-id="magic.uk" tvg-name="UK: MAGIC VIP" tvg-logo="https://asiagrandiptv.us/logo//MAGIC.png" group-title="UK",UK: MAGIC VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7886
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK: NAT GEO WILD VIP" tvg-logo="https://asiagrandiptv.us/logo/natgeowild.png" group-title="UK",UK: NAT GEO WILD VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7903
+#EXTINF:-1 tvg-id="travelxp.uk" tvg-name="UK: TRAVEL CHANNEL VIP" tvg-logo="https://asiagrandiptv.us/logo/travelchannel.png" group-title="UK",UK: TRAVEL CHANNEL VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7983
+#EXTINF:-1 tvg-id="yesterday.uk" tvg-name="UK: YESTERDAY VIP" tvg-logo="https://asiagrandiptv.us/logo/yesterday.png" group-title="UK",UK: YESTERDAY VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7998
+#EXTINF:-1 tvg-id="" tvg-name="UK: RED BULL VIP" tvg-logo="https://asiagrandiptv.us/logo/redbulltv.png" group-title="UK",UK: RED BULL VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/46296
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK: DAVE VIP" tvg-logo="https://asiagrandiptv.us/logo/dave.png" group-title="UK",UK: DAVE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7839
+#EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="UK: E! VIP" tvg-logo="https://asiagrandiptv.us/logo//E-.png" group-title="UK",UK: E! VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7849
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK: GOLD VIP" tvg-logo="https://asiagrandiptv.us/logo/goldtv.png" group-title="UK",UK: GOLD VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7867
+#EXTINF:-1 tvg-id="itv1.uk" tvg-name="UK: ITV VIP" tvg-logo="https://asiagrandiptv.us/logo//itv.png" group-title="UK",UK: ITV VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7877
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK: ITV 2 VIP" tvg-logo="https://asiagrandiptv.us/logo//itv.png" group-title="UK",UK: ITV 2 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7878
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK: ITV 3 VIP" tvg-logo="https://asiagrandiptv.us/logo//itv.png" group-title="UK",UK: ITV 3 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7879
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK: ITV 4 VIP" tvg-logo="https://asiagrandiptv.us/logo//itv.png" group-title="UK",UK: ITV 4 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7880
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="UK: SYFY VIP" tvg-logo="https://asiagrandiptv.us/logo/syfy.png" group-title="UK",UK: SYFY VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7975
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK: TLC VIP" tvg-logo="https://asiagrandiptv.us/logo/tlc.png" group-title="UK",UK: TLC VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7981
+#EXTINF:-1 tvg-id="w.uk" tvg-name="UK: WATCH VIP" tvg-logo="https://asiagrandiptv.us/logo/watch.png" group-title="UK",UK: WATCH VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7997
+#EXTINF:-1 tvg-id="cbsdrama.uk" tvg-name="UK: CBS DRAMA VIP" tvg-logo="https://asiagrandiptv.us/logo/cbsdrama.png" group-title="UK",UK: CBS DRAMA VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/17346
+#EXTINF:-1 tvg-id="paramount.uk" tvg-name="UK: PARAMOUNT VIP" tvg-logo="https://asiagrandiptv.us/logo/paramountnetwork.png" group-title="UK",UK: PARAMOUNT VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/23437
+#EXTINF:-1 tvg-id="qvcbeauty.uk" tvg-name="UK: QVC BEAUTY VIP" tvg-logo="https://asiagrandiptv.us/logo/qvcbeauty.png" group-title="UK",UK: QVC BEAUTY VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/46292
+#EXTINF:-1 tvg-id="qvcextra.uk" tvg-name="UK: QVC EXTRA VIP" tvg-logo="https://asiagrandiptv.us/logo/qvcextra.png" group-title="UK",UK: QVC EXTRA VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/46293
+#EXTINF:-1 tvg-id="qvcstyle.uk" tvg-name="UK: QVC STYLE VIP" tvg-logo="https://asiagrandiptv.us/logo/qvcstyle.png" group-title="UK",UK: QVC STYLE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/46294
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="UK: ITVBE VIP" tvg-logo="https://asiagrandiptv.us/logo/itvbe.png" group-title="UK",UK: ITVBE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/301701
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC TWO VIP" tvg-logo="https://asiagrandiptv.us/logo/bbc2.png" group-title="UK",UK: BBC TWO VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7784
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="UK: BBC 3 VIP" tvg-logo="https://asiagrandiptv.us/logo/bbc3.png" group-title="UK",UK: BBC 3 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7785
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK: BBC FOUR VIP" tvg-logo="https://asiagrandiptv.us/logo/bbc4.png" group-title="UK",UK: BBC FOUR VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7786
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="UK: BLAZE VIP" tvg-logo="https://asiagrandiptv.us/logo/blaze.png" group-title="UK",UK: BLAZE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7800
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="UK: DMAX VIP" tvg-logo="https://asiagrandiptv.us/logo/dmax.png" group-title="UK",UK: DMAX VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7847
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK: MORE 4 VIP" tvg-logo="https://asiagrandiptv.us/logo/more4.png" group-title="UK",UK: MORE 4 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7888
+#EXTINF:-1 tvg-id="picktv.uk" tvg-name="UK: PICK VIP" tvg-logo="https://asiagrandiptv.us/logo/picktv.png" group-title="UK",UK: PICK VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7912
+#EXTINF:-1 tvg-id="questred.uk" tvg-name="UK: QUEST RED VIP" tvg-logo="https://asiagrandiptv.us/logo/questred.png" group-title="UK",UK: QUEST RED VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7915
+#EXTINF:-1 tvg-id="really.uk" tvg-name="UK: REALLY VIP" tvg-logo="https://asiagrandiptv.us/logo/really.png" group-title="UK",UK: REALLY VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7918
+#EXTINF:-1 tvg-id="s4c.uk" tvg-name="UK: S4C VIP" tvg-logo="https://asiagrandiptv.us/logo/s4c.png" group-title="UK",UK: S4C VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7928
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK: 4SEVEN VIP" tvg-logo="https://asiagrandiptv.us/logo/4seven.png" group-title="UK",UK: 4SEVEN VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7769
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK: 5STAR VIP" tvg-logo="https://asiagrandiptv.us/logo/5star.png" group-title="UK",UK: 5STAR VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7770
+#EXTINF:-1 tvg-id="fiveusa.uk" tvg-name="UK: 5USA VIP" tvg-logo="https://asiagrandiptv.us/logo//usa.png" group-title="UK",UK: 5USA VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7771
+#EXTINF:-1 tvg-id="amc.uk" tvg-name="UK: AMC VIP" tvg-logo="https://asiagrandiptv.us/logo//amctv.png" group-title="UK",UK: AMC VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7775
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="UK: BOX NATION VIP" tvg-logo="https://asiagrandiptv.us/logo/boxnation.png" group-title="UK",UK: BOX NATION VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7804
+#EXTINF:-1 tvg-id="" tvg-name="UK: CBS ACTION VIP" tvg-logo="https://asiagrandiptv.us/logo/cbsaction.png" group-title="UK",UK: CBS ACTION VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7823
+#EXTINF:-1 tvg-id="cbsjustice.uk" tvg-name="UK: CBS JUSTICE VIP" tvg-logo="https://asiagrandiptv.us/logo/cbsjustice.png" group-title="UK",UK: CBS JUSTICE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7824
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="UK: CBS REALITY VIP" tvg-logo="https://asiagrandiptv.us/logo/cbsreality.png" group-title="UK",UK: CBS REALITY VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7825
+#EXTINF:-1 tvg-id="challenge.uk" tvg-name="UK: CHALLENGE VIP" tvg-logo="https://asiagrandiptv.us/logo/challenge.png" group-title="UK",UK: CHALLENGE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7826
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK: CHANNEL 4 VIP" tvg-logo="https://asiagrandiptv.us/logo/channel4.png" group-title="UK",UK: CHANNEL 4 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7827
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK: CHANNEL 5 VIP" tvg-logo="https://asiagrandiptv.us/logo/channel5.png" group-title="UK",UK: CHANNEL 5 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7828
+#EXTINF:-1 tvg-id="comedycentralextra.uk" tvg-name="UK: COMEDY CENTRAL EXTRA VIP" tvg-logo="https://asiagrandiptv.us/logo/comedycentralextra.png" group-title="UK",UK: COMEDY CENTRAL EXTRA VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7836
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK: COMEDY CENTRAL VIP" tvg-logo="https://asiagrandiptv.us/logo/comedycentral.png" group-title="UK",UK: COMEDY CENTRAL VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7837
+#EXTINF:-1 tvg-id="disneychannel.id" tvg-name="UK: DISNEY CHANNEL VIP" tvg-logo="https://asiagrandiptv.us/logo/disneychannel.png" group-title="UK",UK: DISNEY CHANNEL VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7845
+#EXTINF:-1 tvg-id="" tvg-name="UK: DISNEY XD VIP" tvg-logo="https://asiagrandiptv.us/logo/disneyxd.png" group-title="UK",UK: DISNEY XD VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7846
+#EXTINF:-1 tvg-id="cbsdrama.uk" tvg-name="UK: DRAMA VIP" tvg-logo="https://asiagrandiptv.us/logo/drama.png" group-title="UK",UK: DRAMA VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7848
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK: E4 VIP" tvg-logo="https://asiagrandiptv.us/logo/e4.png" group-title="UK",UK: E4 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7850
+#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-name="UK: FOOD NETWORK VIP" tvg-logo="https://asiagrandiptv.us/logo/foodnetwork.png" group-title="UK",UK: FOOD NETWORK VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7862
+#EXTINF:-1 tvg-id="goodnews.uk" tvg-name="UK: GOOD FOOD VIP" tvg-logo="https://asiagrandiptv.us/logo/goodfood.png" group-title="UK",UK: GOOD FOOD VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7868
+#EXTINF:-1 tvg-id="" tvg-name="UK: LIFE TIME VIP" tvg-logo="https://asiagrandiptv.us/logo/lifetime.png" group-title="UK",UK: LIFE TIME VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7884
+#EXTINF:-1 tvg-id="londonlive.uk" tvg-name="UK: LONDON LIVE VIP" tvg-logo="https://asiagrandiptv.us/logo/londonlive.png" group-title="UK",UK: LONDON LIVE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7885
+#EXTINF:-1 tvg-id="5select.uk" tvg-name="UK: 5SELECT VIP" tvg-logo="https://asiagrandiptv.us/logo/5select.png" group-title="UK",UK: 5SELECT VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/23419
+#EXTINF:-1 tvg-id="" tvg-name="UK: DISNEY JUNIOR VIP" tvg-logo="https://asiagrandiptv.us/logo/disneyjunior.png" group-title="UK",UK: DISNEY JUNIOR VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/23442
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="UK: SKY ARTS VIP" tvg-logo="https://asiagrandiptv.us/logo/skyarts.png" group-title="UK",UK: SKY ARTS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7932
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK: SKY WITNESS VIP" tvg-logo="https://asiagrandiptv.us/logo/skywitness.png" group-title="UK",UK: SKY WITNESS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7965
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK: SKY ATLANTIC VIP" tvg-logo="https://asiagrandiptv.us/logo/skyatlantic.png" group-title="UK",UK: SKY ATLANTIC VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/138031
+#EXTINF:-1 tvg-id="" tvg-name="UK: TOGETHER VIP" tvg-logo="https://asiagrandiptv.us/logo//TOGETHER.png" group-title="UK",UK: TOGETHER VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/385379
+#EXTINF:-1 tvg-id="" tvg-name="UK: ABP NEWS VIP" tvg-logo="https://asiagrandiptv.us/logo/abpnews.png" group-title="UK",UK: ABP NEWS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7773
+#EXTINF:-1 tvg-id="b4umovies.uk" tvg-name="UK: B4U MOVIES VIP" tvg-logo="https://asiagrandiptv.us/logo/b4umovies.png" group-title="UK",UK: B4U MOVIES VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7779
+#EXTINF:-1 tvg-id="b4umusic.uk" tvg-name="UK: B4U PLUS VIP" tvg-logo="https://asiagrandiptv.us/logo/b4uplus.png" group-title="UK",UK: B4U PLUS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7781
+#EXTINF:-1 tvg-id="" tvg-name="UK: CHELSEA TV VIP" tvg-logo="https://asiagrandiptv.us/logo/chelseatv.png" group-title="UK",UK: CHELSEA TV VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7830
+#EXTINF:-1 tvg-id="" tvg-name="UK: COLORS EUROPE VIP" tvg-logo="https://asiagrandiptv.us/logo/colors.png" group-title="UK",UK: COLORS EUROPE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7835
+#EXTINF:-1 tvg-id="rishteycineplex.uk" tvg-name="UK: RISHTEY VIP" tvg-logo="https://asiagrandiptv.us/logo/rishtey.png" group-title="UK",UK: RISHTEY VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7919
+#EXTINF:-1 tvg-id="pop.uk" tvg-name="UK: POP VIP" tvg-logo="https://asiagrandiptv.us/logo/poptv.png" group-title="UK",UK: POP VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7913
+#EXTINF:-1 tvg-id="" tvg-name="UK: RTE JR VIP" tvg-logo="https://asiagrandiptv.us/logo//rtejr.png" group-title="UK",UK: RTE JR VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7927
+#EXTINF:-1 tvg-id="tinypop.uk" tvg-name="UK: TINY POP VIP" tvg-logo="https://asiagrandiptv.us/logo/tinypop.png" group-title="UK",UK: TINY POP VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7980
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="UK: CBEEBIES VIP" tvg-logo="https://asiagrandiptv.us/logo/bbccbeebies.png" group-title="UK",UK: CBEEBIES VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/170389
+#EXTINF:-1 tvg-id="babytv.uk" tvg-name="UK: BABY TV VIP" tvg-logo="https://asiagrandiptv.us/logo/babytv.png" group-title="UK",UK: BABY TV VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7782
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="UK: BOOMERANG VIP" tvg-logo="https://asiagrandiptv.us/logo/boomerang.png" group-title="UK",UK: BOOMERANG VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7802
+#EXTINF:-1 tvg-id="citv.uk" tvg-name="UK: CITV VIP" tvg-logo="https://asiagrandiptv.us/logo/citv.png" group-title="UK",UK: CITV VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7818
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK: CBBC VIP" tvg-logo="https://asiagrandiptv.us/logo/cbbc.png" group-title="UK",UK: CBBC VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7821
+#EXTINF:-1 tvg-id="nickjrtoo.uk" tvg-name="UK: NICK JR TOO VIP" tvg-logo="https://asiagrandiptv.us/logo/nickjrtoo.png" group-title="UK",UK: NICK JR TOO VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7904
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="UK: NICK JR VIP" tvg-logo="https://asiagrandiptv.us/logo/nickjunior.png" group-title="UK",UK: NICK JR VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7905
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK: FILM 4 VIP" tvg-logo="https://asiagrandiptv.us/logo/film4.png" group-title="UK",UK: FILM 4 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7858
+#EXTINF:-1 tvg-id="horrorchannel.uk" tvg-name="UK: HORROR CHANNEL VIP" tvg-logo="https://asiagrandiptv.us/logo/horrorchannel.png" group-title="UK",UK: HORROR CHANNEL VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7874
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="UK: SKY CINEMA COMEDY VIP" tvg-logo="https://asiagrandiptv.us/logo/skycinemacomedy.png" group-title="UK",UK: SKY CINEMA COMEDY VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7936
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK: SKY CINEMA FAMILY VIP" tvg-logo="https://asiagrandiptv.us/logo//skycinemafamily.png" group-title="UK",UK: SKY CINEMA FAMILY VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7938
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK: SKY CINEMA PREMIERE VIP" tvg-logo="https://asiagrandiptv.us/logo//SKYCINEMAPREMIERE.jpeg" group-title="UK",UK: SKY CINEMA PREMIERE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7940
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA SCI-FI VIP" tvg-logo="https://asiagrandiptv.us/logo/skycinemasci.png" group-title="UK",UK: SKY CINEMA SCI-FI VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7941
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="UK: SKY CINEMA SELECT VIP" tvg-logo="https://asiagrandiptv.us/logo//SKYCINEMASELECT.jpeg" group-title="UK",UK: SKY CINEMA SELECT VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7942
+#EXTINF:-1 tvg-id="skyshowcase.uk" tvg-name="UK: SKY CINEMA SHOWCASE VIP" tvg-logo="https://asiagrandiptv.us/logo/skycinemashowcase.png" group-title="UK",UK: SKY CINEMA SHOWCASE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7943
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK: SKY CINEMA THRILLER VIP" tvg-logo="https://asiagrandiptv.us/logo//SKYCINEMATHRILLER.jpeg" group-title="UK",UK: SKY CINEMA THRILLER VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7944
+#EXTINF:-1 tvg-id="tcm.uk" tvg-name="UK: TCM MOVIES VIP" tvg-logo="https://asiagrandiptv.us/logo//TCMMOVIES.png" group-title="UK",UK: TCM MOVIES VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7977
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA DISNEY VIP" tvg-logo="https://asiagrandiptv.us/logo//SKYCINEMADISNEY.jpeg" group-title="UK",UK: SKY CINEMA DISNEY VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/17373
+#EXTINF:-1 tvg-id="greattv.uk" tvg-name="UK: SKY CINEMA GREATS VIP" tvg-logo="https://asiagrandiptv.us/logo//SKYCINEMAGREATS.jpeg" group-title="UK",UK: SKY CINEMA GREATS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/17375
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK: SKY CINEMA HITS VIP" tvg-logo="https://asiagrandiptv.us/logo//SKYCINEMAHITS.jpeg" group-title="UK",UK: SKY CINEMA HITS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/138032
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: SKY CINEMA ACTION VIP" tvg-logo="https://asiagrandiptv.us/logo/skycinemaaction.png" group-title="UK",UK: SKY CINEMA ACTION VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/83086
+#EXTINF:-1 tvg-id="" tvg-name="UK: TALKING PICTURES VIP" tvg-logo="https://asiagrandiptv.us/logo//TALKINGPICTURES.png" group-title="UK",UK: TALKING PICTURES VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/385234
+#EXTINF:-1 tvg-id="france24.uk" tvg-name="UK: FRANCE 24 VIP" tvg-logo="https://asiagrandiptv.us/logo/france24.png" group-title="UK",UK: FRANCE 24 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7865
+#EXTINF:-1 tvg-id="aljazeera.uk" tvg-name="UK: AL JAZEERA VIP" tvg-logo="https://asiagrandiptv.us/logo/aljazeera.png" group-title="UK",UK: AL JAZEERA VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/17350
+#EXTINF:-1 tvg-id="bloombergtv.uk" tvg-name="UK: BLOOMBERG VIP" tvg-logo="https://asiagrandiptv.us/logo//BLOOMBERG.png" group-title="UK",UK: BLOOMBERG VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/299865
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK: BBC ONE VIP" tvg-logo="https://asiagrandiptv.us/logo/bbcone.png" group-title="UK",UK: BBC ONE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7783
+#EXTINF:-1 tvg-id="bbcalba.uk" tvg-name="UK: BBC ALBA VIP" tvg-logo="https://asiagrandiptv.us/logo/bbcalba.png" group-title="UK",UK: BBC ALBA VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7787
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK: BBC NEWS VIP" tvg-logo="https://asiagrandiptv.us/logo/bbcnews.png" group-title="UK",UK: BBC NEWS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7788
+#EXTINF:-1 tvg-id="bbcworldnews.uk" tvg-name="UK: BBC WORLD NEWS VIP" tvg-logo="https://asiagrandiptv.us/logo/bbcworldnews.png" group-title="UK",UK: BBC WORLD NEWS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7797
+#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="UK: CNBC VIP" tvg-logo="https://asiagrandiptv.us/logo/cnbc.png" group-title="UK",UK: CNBC VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7832
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK: CNN VIP" tvg-logo="https://asiagrandiptv.us/logo/cnn.png" group-title="UK",UK: CNN VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7833
+#EXTINF:-1 tvg-id="fox.uk" tvg-name="UK: FOX VIP" tvg-logo="https://asiagrandiptv.us/logo/fox.png" group-title="UK",UK: FOX VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7863
+#EXTINF:-1 tvg-id="" tvg-name="UK: FOX NEWS VIP" tvg-logo="https://asiagrandiptv.us/logo/foxnews.png" group-title="UK",UK: FOX NEWS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7864
+#EXTINF:-1 tvg-id="" tvg-name="UK: RTE NEWS NOW VIP" tvg-logo="https://asiagrandiptv.us/logo/rtenewsnow.png" group-title="UK",UK: RTE NEWS NOW VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7924
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="UK: EURONEWS VIP" tvg-logo="https://asiagrandiptv.us/logo/euronews.png" group-title="UK",UK: EURONEWS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/17348
+#EXTINF:-1 tvg-id="bbcentertainment.uk" tvg-name="UK: BBC ENTERTAINMENT VIP" tvg-logo="https://asiagrandiptv.us/logo/bbcentertainment.png" group-title="UK",UK: BBC ENTERTAINMENT VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/46190
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK: SKY NEWS VIP" tvg-logo="https://asiagrandiptv.us/logo/skynews.png" group-title="UK",UK: SKY NEWS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/46329
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS BOX OFFICE VIP(EVENT ONLY)" tvg-logo="https://asiagrandiptv.us/logo//SKYSPORTSBOXOFFICE.jpeg" group-title="UK",UK: SKY SPORTS BOX OFFICE VIP(EVENT ONLY)
+http://parkpay.live:8080/overkill/dB2hBKSxdP/367950
+#EXTINF:-1 tvg-id="sky1.uk" tvg-name="UK: SKY 1 VIP" tvg-logo="https://asiagrandiptv.us/logo//SKY1.jpeg" group-title="UK",UK: SKY 1 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7946
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF VIP" tvg-logo="https://asiagrandiptv.us/logo//SKYSPORTSGOLF.jpeg" group-title="UK",UK: SKY SPORTS GOLF VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7955
+#EXTINF:-1 tvg-id="sky2.uk" tvg-name="UK: SKY 2 VIP" tvg-logo="https://asiagrandiptv.us/logo//SKY2.jpeg" group-title="UK",UK: SKY 2 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7964
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: SKY SPORTS MAIN EVENT VIP" tvg-logo="https://asiagrandiptv.us/logo//SKYSPORTSMAINEVENT.jpeg" group-title="UK",UK: SKY SPORTS MAIN EVENT VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/17391
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: SKY SPORTS FOOTBALL VIP" tvg-logo="https://asiagrandiptv.us/logo//SKYSPORTSFOOTBALL.jpeg" group-title="UK",UK: SKY SPORTS FOOTBALL VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/17398
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAGUE VIP" tvg-logo="https://asiagrandiptv.us/logo//SKYSPORTSPREMIERLEAGUE.png" group-title="UK",UK: SKY SPORTS PREMIER LEAGUE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/17400
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: SKY SPORTS ARENA VIP" tvg-logo="https://asiagrandiptv.us/logo//SKYSPORTSARENA.png" group-title="UK",UK: SKY SPORTS ARENA VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/17402
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1 VIP" tvg-logo="https://asiagrandiptv.us/logo//SKYSPORTSF1.jpeg" group-title="UK",UK: SKY SPORTS F1 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/17405
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: SKY SPORTS MIX VIP" tvg-logo="https://asiagrandiptv.us/logo//SKYSPORTSMIX.jpeg" group-title="UK",UK: SKY SPORTS MIX VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/23696
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK: SKY SPORTS RACING VIP" tvg-logo="https://asiagrandiptv.us/logo//SKYSPORTSRACING.png" group-title="UK",UK: SKY SPORTS RACING VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/46346
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: SKY SPORTS ACTION VIP" tvg-logo="https://asiagrandiptv.us/logo//SKYSPORTSACTION.jpeg" group-title="UK",UK: SKY SPORTS ACTION VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/83100
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: SKY SPORT NEWS VIP" tvg-logo="https://asiagrandiptv.us/logo//skysportnews.jpeg" group-title="UK",UK: SKY SPORT NEWS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/302139
+#EXTINF:-1 tvg-id="attheraces.uk" tvg-name="UK: AT THE RACES VIP" tvg-logo="https://asiagrandiptv.us/logo/attheraces.png" group-title="UK",UK: AT THE RACES VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7778
+#EXTINF:-1 tvg-id="eden.uk" tvg-name="UK: EDEN VIP" tvg-logo="https://asiagrandiptv.us/logo/eden.png" group-title="UK",UK: EDEN VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7852
+#EXTINF:-1 tvg-id="" tvg-name="UK: EIR SPORT 1 VIP" tvg-logo="https://asiagrandiptv.us/logo//eirsports.png" group-title="UK",UK: EIR SPORT 1 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7853
+#EXTINF:-1 tvg-id="" tvg-name="UK: EIR SPORT 2 VIP" tvg-logo="https://asiagrandiptv.us/logo//EIRSPORT2.png" group-title="UK",UK: EIR SPORT 2 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7855
+#EXTINF:-1 tvg-id="" tvg-name="UK: MOTORS TV VIP" tvg-logo="https://asiagrandiptv.us/logo/motorstv.png" group-title="UK",UK: MOTORS TV VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7889
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV VIP" tvg-logo="https://asiagrandiptv.us/logo/mutv.png" group-title="UK",UK: MUTV VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7901
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK: RACING VIP" tvg-logo="https://asiagrandiptv.us/logo/racing.png" group-title="UK",UK: RACING VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7916
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="UK: LIVERPOOL FC VIP" tvg-logo="https://asiagrandiptv.us/logo//liverpoolfctv.png" group-title="UK",UK: LIVERPOOL FC VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/17406
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK: PREMIER SPORTS 1 VIP" tvg-logo="https://asiagrandiptv.us/logo//PREMIERESPORTS1.png" group-title="UK",UK: PREMIER SPORTS 1 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/301706
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK: LALIGA TV VIP" tvg-logo="https://asiagrandiptv.us/logo/laligatv.png" group-title="UK",UK: LALIGA TV VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/301703
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="UK: FREE SPORTS VIP" tvg-logo="https://asiagrandiptv.us/logo//FREESPORTS.png" group-title="UK",UK: FREE SPORTS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/301692
+#EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-name="UK: EUROSPORT 2 VIP" tvg-logo="https://asiagrandiptv.us/logo//EUROSPORT2.png" group-title="UK",UK: EUROSPORT 2 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/301691
+#EXTINF:-1 tvg-id="Eurosport1UK.uk" tvg-name="UK: EUROSPORT 1 VIP" tvg-logo="https://asiagrandiptv.us/logo//EUROSPORT1.png" group-title="UK",UK: EUROSPORT 1 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/301690
+#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS 2 VIP" tvg-logo="https://asiagrandiptv.us/logo//premiersports.png" group-title="UK",UK: PREMIER SPORTS 2 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/384591
+#EXTINF:-1 tvg-id="" tvg-name="UK: ALIBI VIP" tvg-logo="https://asiagrandiptv.us/logo//alibip.png" group-title="UK",UK: ALIBI VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/385306
+#EXTINF:-1 tvg-id="BBCTwoEngland.uk" tvg-name="UK: BBC TWO ENG VIP" tvg-logo="https://asiagrandiptv.us/logo/bbc2.png" group-title="UK",UK: BBC TWO ENG VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308834
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT ESPN VIP" tvg-logo="https://asiagrandiptv.us/logo/espn.png" group-title="UK",UK: BT SPORT ESPN VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308759
+#EXTINF:-1 tvg-id="" tvg-name="UK: NICKTOONS VIP" tvg-logo="https://asiagrandiptv.us/logo/nicktoons.png" group-title="UK",UK: NICKTOONS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308694
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK: QUEST VIP" tvg-logo="https://asiagrandiptv.us/logo/quest.png" group-title="UK",UK: QUEST VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308682
+#EXTINF:-1 tvg-id="" tvg-name="UK: RTE 1 VIP" tvg-logo="https://asiagrandiptv.us/logo/rteone.png" group-title="UK",UK: RTE 1 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308679
+#EXTINF:-1 tvg-id="RTE2.ie" tvg-name="UK: RTE 2 VIP" tvg-logo="https://asiagrandiptv.us/logo/rtetwo.png" group-title="UK",UK: RTE 2 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308678
+#EXTINF:-1 tvg-id="" tvg-name="UK: RTE NEWS VIP" tvg-logo="https://asiagrandiptv.us/logo/rtenews.png" group-title="UK",UK: RTE NEWS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308676
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK: SKY CINEMA ANIMATION VIP" tvg-logo="https://asiagrandiptv.us/logo//SKYCINEMAANIMATION.png" group-title="UK",UK: SKY CINEMA ANIMATION VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308657
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA DRAMA VIP" tvg-logo="https://asiagrandiptv.us/logo/skycinemadrama.png" group-title="UK",UK: SKY CINEMA DRAMA VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308651
+#EXTINF:-1 tvg-id="colors.uk" tvg-name="UK: COLORS VIP" tvg-logo="https://asiagrandiptv.us/logo/colors.png" group-title="UK",UK: COLORS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/7834
+#EXTINF:-1 tvg-id="" tvg-name="UK: HOME And health VIP" tvg-logo="https://asiagrandiptv.us/logo//HOME&health.png" group-title="UK",UK: HOME And health VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/385824
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC PARLIAMENT VIP" tvg-logo="https://asiagrandiptv.us/logo//bbcparliamentvip.png" group-title="UK",UK: BBC PARLIAMENT VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/385818
+#EXTINF:-1 tvg-id="" tvg-name="UK: CHANNEL AKA VIP" tvg-logo="https://asiagrandiptv.us/logo//channelakavip.png" group-title="UK",UK: CHANNEL AKA VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/385801
+#EXTINF:-1 tvg-id="" tvg-name="UK: NHK WORLD VIP" tvg-logo="https://asiagrandiptv.us/logo//NHKWORLDNEWS.png" group-title="UK",UK: NHK WORLD VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/385796
+#EXTINF:-1 tvg-id="" tvg-name="UK: ALJAZEERA NEWS VIP" tvg-logo="https://asiagrandiptv.us/logo//aljazeeranews.png" group-title="UK",UK: ALJAZEERA NEWS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/385793
+#EXTINF:-1 tvg-id="" tvg-name="UK: ZING VIP" tvg-logo="https://asiagrandiptv.us/logo//zing.png" group-title="UK",UK: ZING VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/385957
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIVA VIP" tvg-logo="https://asiagrandiptv.us/logo//viva.png" group-title="UK",UK: VIVA VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/385954
+#EXTINF:-1 tvg-id="" tvg-name="UK: TRAVEL XP VIP" tvg-logo="https://asiagrandiptv.us/logo//travelxp.png" group-title="UK",UK: TRAVEL XP VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/385950
+#EXTINF:-1 tvg-id="" tvg-name="UK: PBS AMERICA VIP" tvg-logo="https://asiagrandiptv.us/logo//PBSAMERICA.png" group-title="UK",UK: PBS AMERICA VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/385916
+#EXTINF:-1 tvg-id="" tvg-name="UK: NOW 90S VIP" tvg-logo="https://asiagrandiptv.us/logo//NOWS90S.jpeg" group-title="UK",UK: NOW 90S VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/385915
+#EXTINF:-1 tvg-id="" tvg-name="UK: NOW 80S VIP" tvg-logo="https://asiagrandiptv.us/logo//NOWS80s.jpeg" group-title="UK",UK: NOW 80S VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/385914
+#EXTINF:-1 tvg-id="" tvg-name="UK: NOW 70S VIP" tvg-logo="https://asiagrandiptv.us/logo//NOWS70S.jpeg" group-title="UK",UK: NOW 70S VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/385913
+#EXTINF:-1 tvg-id="" tvg-name="UK: BRITISH MUSLIM VIP" tvg-logo="https://asiagrandiptv.us/logo//BRITISHMUSLIM.jpeg" group-title="UK",UK: BRITISH MUSLIM VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/385853
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC TWO NORTHERN IRELAND VIP" tvg-logo="https://asiagrandiptv.us/logo//BBCTWONORTHERNIRELAND.png" group-title="UK",UK: BBC TWO NORTHERN IRELAND VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/385844
+#EXTINF:-1 tvg-id="" tvg-name="UK: ARY DIGITAL VIP" tvg-logo="https://asiagrandiptv.us/logo/arydigital.png" group-title="UK",UK: ARY DIGITAL VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308907
+#EXTINF:-1 tvg-id="b4umusic.uk" tvg-name="UK: B4U MUSIC VIP" tvg-logo="https://asiagrandiptv.us/logo/b4umusic.png" group-title="UK",UK: B4U MUSIC VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308900
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC TWO (SCOTLAND) VIP" tvg-logo="https://asiagrandiptv.us/logo/bbctwoscotland.png" group-title="UK",UK: BBC TWO (SCOTLAND) VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308868
+#EXTINF:-1 tvg-id="gbnews.uk" tvg-name="UK: GB NEWS VIP" tvg-logo="https://asiagrandiptv.us/logo//GBNEWS.png" group-title="UK",UK: GB NEWS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308746
+#EXTINF:-1 tvg-id="hgtv.uk" tvg-name="UK: HGTV VIP" tvg-logo="https://asiagrandiptv.us/logo/hgtv.png" group-title="UK",UK: HGTV VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308738
+#EXTINF:-1 tvg-id="" tvg-name="UK: LAW & CRIME VIP" tvg-logo="https://asiagrandiptv.us/logo//LAW&CRIME.jpeg" group-title="UK",UK: LAW & CRIME VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308714
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="UK: MTV HITS VIP" tvg-logo="https://asiagrandiptv.us/logo/mtvhits.png" group-title="UK",UK: MTV HITS VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308704
+#EXTINF:-1 tvg-id="mtvmusic.uk" tvg-name="UK: MTV MUSIC VIP" tvg-logo="https://asiagrandiptv.us/logo/mtvmusic.png" group-title="UK",UK: MTV MUSIC VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308703
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK: NICKELODEON VIP" tvg-logo="https://asiagrandiptv.us/logo/nickelodeon.png" group-title="UK",UK: NICKELODEON VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308693
+#EXTINF:-1 tvg-id="" tvg-name="UK: PEACE TV VIP" tvg-logo="https://asiagrandiptv.us/logo/peacetv.png" group-title="UK",UK: PEACE TV VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308688
+#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="UK: SONY MAX VIP" tvg-logo="https://asiagrandiptv.us/logo/sonymax.png" group-title="UK",UK: SONY MAX VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308668
+#EXTINF:-1 tvg-id="sonymax2.uk" tvg-name="UK: SONY MAX 2 VIP" tvg-logo="https://asiagrandiptv.us/logo/sonymax2.png" group-title="UK",UK: SONY MAX 2 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308667
+#EXTINF:-1 tvg-id="sonysab.uk" tvg-name="UK: SONY SAB VIP" tvg-logo="https://asiagrandiptv.us/logo/sonysab.png" group-title="UK",UK: SONY SAB VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308666
+#EXTINF:-1 tvg-id="showcase.uk" tvg-name="UK: SHOWCASE VIP" tvg-logo="https://asiagrandiptv.us/logo//SHOWTIMESHOWCASEWEST.png" group-title="UK",UK: SHOWCASE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308663
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK: SKY CRIME VIP" tvg-logo="https://asiagrandiptv.us/logo/skycrime.png" group-title="UK",UK: SKY CRIME VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308638
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK: SKY DOCUMENTARIES VIP" tvg-logo="https://asiagrandiptv.us/logo//SKY DOCUMENTARIES.png" group-title="UK",UK: SKY DOCUMENTARIES VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308637
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK: SKY NATURE VIP" tvg-logo="https://asiagrandiptv.us/logo/skynature.png" group-title="UK",UK: SKY NATURE VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308636
+#EXTINF:-1 tvg-id="" tvg-name="UK: UTV VIP" tvg-logo="https://asiagrandiptv.us/logo/utv.png" group-title="UK",UK: UTV VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/308557
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky News" tvg-logo="https://asiagrandiptv.us/logo//skynews.png" group-title="",UK: Sky News
+http://parkpay.live:8080/overkill/dB2hBKSxdP/395254
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Store 4 VIP" tvg-logo="https://asiagrandiptv.us/logo//SkyStore.jpeg" group-title="UK",UK: Sky Store 4 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/397298
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Store 2 VIP" tvg-logo="https://asiagrandiptv.us/logo//SkyStore.jpeg" group-title="UK",UK: Sky Store 2 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/397295
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Store 1 VIP" tvg-logo="https://asiagrandiptv.us/logo//SkyStore.jpeg" group-title="UK",UK: Sky Store 1 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/397294
+#EXTINF:-1 tvg-id="" tvg-name="UK: ARY Zindagi" tvg-logo="https://asiagrandiptv.us/logo//aryzindagi.png" group-title="UK",UK: ARY Zindagi
+http://parkpay.live:8080/overkill/dB2hBKSxdP/400493
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKI TV VIP" tvg-logo="https://asiagrandiptv.us/logo//SKITV.png" group-title="UK",UK: SKI TV VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/393968
+#EXTINF:-1 tvg-id="" tvg-name="UZ: KINO TEATR" tvg-logo="https://asiagrandiptv.us/logo/KINOTEATR.jpg" group-title="UZBEKISTAN",UZ: KINO TEATR
+#EXTINF:-1 tvg-id="" tvg-name="UK: EPL 1 VIP" tvg-logo="" group-title="UK | EPL",UK: EPL 1 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410669
+#EXTINF:-1 tvg-id="" tvg-name="UK: EPL 10 VIP" tvg-logo="" group-title="UK | EPL",UK: EPL 10 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410668
+#EXTINF:-1 tvg-id="" tvg-name="UK: EPL 11 VIP" tvg-logo="" group-title="UK | EPL",UK: EPL 11 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410667
+#EXTINF:-1 tvg-id="" tvg-name="UK: EPL 2 VIP" tvg-logo="" group-title="UK | EPL",UK: EPL 2 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410666
+#EXTINF:-1 tvg-id="" tvg-name="UK: EPL 3 VIP" tvg-logo="" group-title="UK | EPL",UK: EPL 3 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410665
+#EXTINF:-1 tvg-id="" tvg-name="UK: EPL 4 VIP" tvg-logo="" group-title="UK | EPL",UK: EPL 4 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410664
+#EXTINF:-1 tvg-id="" tvg-name="UK: EPL 5 VIP" tvg-logo="" group-title="UK | EPL",UK: EPL 5 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410663
+#EXTINF:-1 tvg-id="" tvg-name="UK: EPL 6 VIP" tvg-logo="" group-title="UK | EPL",UK: EPL 6 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410662
+#EXTINF:-1 tvg-id="" tvg-name="UK: EPL 7 VIP" tvg-logo="" group-title="UK | EPL",UK: EPL 7 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410661
+#EXTINF:-1 tvg-id="" tvg-name="UK: EPL 8 VIP" tvg-logo="" group-title="UK | EPL",UK: EPL 8 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410660
+#EXTINF:-1 tvg-id="" tvg-name="UK: EPL 9 VIP" tvg-logo="" group-title="UK | EPL",UK: EPL 9 VIP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/410659
